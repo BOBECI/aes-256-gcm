@@ -1,5 +1,5 @@
 {
-  "name": "aes-256-gcm-12byte-iv",
+  "name": "bobeci-aes-256",
   "version": "1.0.0",
   "description": "Simplifies encryption/decryption using the AES 256 GCM algorithm.",
   "main": "index.js",
