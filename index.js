@@ -7,7 +7,7 @@
 const crypto = require('crypto');
 
 const ALGORITHM = 'aes-256-gcm';
-const BLOCK_SIZE_BYTES = 16; // 128 bit
+const BLOCK_SIZE_BYTES = 12; // 128 bit
 
 /**
  * Provides easy encryption/decryption methods using AES 256 GCM.
